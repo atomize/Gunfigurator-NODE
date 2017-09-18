@@ -1,4 +1,4 @@
-# Gunfigurator-nodejs
+# Gunfigurator-NODE
 A self-hosted version of Gunfigurator that allows for real-time editing of the Gunbot 5.x.x configuration file from a web browser via NodeJS and ExpressJS.
 
 Instructions:
